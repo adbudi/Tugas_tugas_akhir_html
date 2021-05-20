@@ -1,1 +1,2 @@
-# Tugas_tugas_akhir_html
+# Tuga_akhir_html
+![tugasakhir](gbr/ta.png)
